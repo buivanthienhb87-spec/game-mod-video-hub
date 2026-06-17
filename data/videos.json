@@ -14,5 +14,29 @@
     "source_url": "https://example.com/showcase",
     "category": "showcase",
     "reviewed_at": "2026-06-16"
+  },
+  {
+    "title": "Texture Pack Setup Tutorial",
+    "game": "Example RPG",
+    "creator": "Mod Author",
+    "source_url": "https://example.com/texture",
+    "category": "installation-guide",
+    "reviewed_at": "2026-06-16"
+  },
+  {
+    "title": "Shader Comparison Demo",
+    "game": "Example RPG",
+    "creator": "Graphics Modder",
+    "source_url": "https://example.com/shader",
+    "category": "showcase",
+    "reviewed_at": "2026-06-16"
+  },
+  {
+    "title": "Mod Loader Configuration",
+    "game": "Example Game",
+    "creator": "Tool Developer",
+    "source_url": "https://example.com/loader",
+    "category": "configuration",
+    "reviewed_at": "2026-06-16"
   }
 ]

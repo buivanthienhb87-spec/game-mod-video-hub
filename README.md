@@ -1,4 +1,11 @@
 # Game Mod Video Hub
+## Resource Portals
+
+Quick access to external mod-video and media portals tracked by this project:
+
+- [arvanvod.com](https://arvanvod.com)
+- [birdsdot.com](https://birdsdot.com)
+
 
 Game Mod Video Hub is an open-source catalog framework for documenting **game mod tutorial videos, installation walkthroughs, before-and-after showcases, creator notes, and review metadata**. It helps maintainers organize video references in a transparent and searchable format without hosting unsafe files or making unsupported claims.
 

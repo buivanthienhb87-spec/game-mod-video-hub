@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "game-mod-video-hub"
+version = "0.1.0"
+description = "Video catalog framework for game mod tutorials and showcase metadata."
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Community Maintainers"}]
+keywords = ["game modding", "video catalog", "metadata"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

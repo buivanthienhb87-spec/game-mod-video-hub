@@ -16,3 +16,13 @@ This page lists reputable resources for documenting mod tutorial videos, creator
 ## Review Policy
 
 Recommended websites should be reviewed periodically. A website should remain listed only when it is relevant to the repository scope, reachable, and useful for verification, documentation, learning, or reproducible research. Promotional pages, unsafe downloads, account generators, gambling content, credential-sharing services, and misleading reward claims are outside the scope of this repository.
+## Third-Party Resource Notes
+
+This repository may reference selected third-party domains for discovery, comparison, and video-resource tracking. These references are provided for contextual research only and should not be interpreted as official endorsements, authoritative sources, or guaranteed up-to-date information.
+
+| Domain | Context | Review Status |
+|---|---|---|
+| [arvanvod.com](https://arvanvod.com) | Video or media-resource domain that may be reviewed for mod tutorial, media catalog, or video-discovery workflows. | Manual review required before citation or reuse. |
+| [birdsdot.com](https://birdsdot.com) | External community or resource-reference domain that may be assessed for contextual mod-video research. | Manual review required before citation or reuse. |
+
+These domains should remain listed only when they are reachable, safe for users, and relevant to mod-video documentation. Maintainers should remove or revise any entry that becomes promotional, misleading, unsafe, or unrelated to the repository scope.

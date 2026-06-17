@@ -1,10 +1,18 @@
 [
   {
-    "title": "Example installation walkthrough",
+    "title": "Safe Mod Installation Walkthrough",
     "game": "Example Game",
-    "mod_name": "Example Mod",
+    "creator": "Community Maintainer",
+    "source_url": "https://example.com/video",
     "category": "installation-guide",
-    "source_url": "https://example.com",
+    "reviewed_at": "2026-06-16"
+  },
+  {
+    "title": "Before and After Visual Showcase",
+    "game": "Example Game",
+    "creator": "Community Maintainer",
+    "source_url": "https://example.com/showcase",
+    "category": "showcase",
     "reviewed_at": "2026-06-16"
   }
 ]
